@@ -1,3 +1,3 @@
 # wow
 
-file PW : corporate name (in all lowercase)
+file PW : 이 파일이 유출된 날짜 (ex: 2020년 08월 19일 => 20200819)
